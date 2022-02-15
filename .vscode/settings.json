@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "TreeTravel/src",
+        "Tree/src",
         "Test/src",
         "Single Linked List/src",
         "HanoiTower/src",
@@ -8,6 +9,6 @@
         "DoublyCircularLinkedList/src",
         "CircularLinkedList/src",
         "ArrayList/src",
-        "Tree/src"
+        "Stack/src"
     ]
 }
