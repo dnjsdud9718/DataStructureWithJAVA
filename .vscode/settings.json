@@ -8,11 +8,13 @@
         "Single Linked List/src",
         "Queue/src",
         "Kruskal/src",
+        "Hash/src",
         "HanoiTower/src",
+        "Graph/src",
         "DoublyLinkedList/src",
         "DoublyCircularLinkedList/src",
         "CircularLinkedList/src",
         "ArrayList/src",
-        "Graph/src"
+        "Heap/src"
     ]
 }
