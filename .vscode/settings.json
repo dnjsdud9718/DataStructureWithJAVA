@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "TreeTravel/src",
         "Test/src",
         "HanoiTower/src",
-        "ArrayList/src"
+        "ArrayList/src",
+        "Single Linked List/src"
     ]
 }
