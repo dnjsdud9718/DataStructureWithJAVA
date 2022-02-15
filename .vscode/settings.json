@@ -7,11 +7,12 @@
         "Sort/src",
         "Single Linked List/src",
         "Queue/src",
+        "Kruskal/src",
         "HanoiTower/src",
         "DoublyLinkedList/src",
         "DoublyCircularLinkedList/src",
         "CircularLinkedList/src",
         "ArrayList/src",
-        "Kruskal/src"
+        "Graph/src"
     ]
 }
