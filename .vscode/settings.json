@@ -5,7 +5,8 @@
         "Single Linked List/src",
         "HanoiTower/src",
         "DoublyLinkedList/src",
+        "CircularLinkedList/src",
         "ArrayList/src",
-        "CircularLinkedList/src"
+        "DoublyCircularLinkedList/src"
     ]
 }
