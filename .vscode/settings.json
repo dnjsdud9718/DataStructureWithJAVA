@@ -3,12 +3,14 @@
         "TreeTravel/src",
         "Tree/src",
         "Test/src",
+        "Stack/src",
+        "Sort/src",
         "Single Linked List/src",
         "HanoiTower/src",
         "DoublyLinkedList/src",
         "DoublyCircularLinkedList/src",
         "CircularLinkedList/src",
         "ArrayList/src",
-        "Stack/src"
+        "Queue/src"
     ]
 }
