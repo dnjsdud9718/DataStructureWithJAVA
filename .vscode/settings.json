@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Test/src",
         "HanoiTower/src",
-        "Test/src"
+        "ArrayList/src"
     ]
 }
