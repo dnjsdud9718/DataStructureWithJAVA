@@ -7,6 +7,7 @@
         "Sort/src",
         "Single Linked List/src",
         "Queue/src",
+        "Prim/src",
         "Kruskal/src",
         "Heap/src",
         "Hash/src",
@@ -16,6 +17,6 @@
         "DoublyCircularLinkedList/src",
         "CircularLinkedList/src",
         "ArrayList/src",
-        "Prim/src"
+        "Dijkstra/src"
     ]
 }
