@@ -15,8 +15,9 @@
         "Graph/src",
         "DoublyLinkedList/src",
         "DoublyCircularLinkedList/src",
+        "Dijkstra/src",
         "CircularLinkedList/src",
         "ArrayList/src",
-        "Dijkstra/src"
+        "BellmsnFord/src"
     ]
 }
